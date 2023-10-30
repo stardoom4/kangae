@@ -86,7 +86,7 @@ keywords = [ "microblog", "linux", "devops", "openbsd" ]
 # `name` and `url` should be present for visibility, `rel` is optional
 navbar = [
   { name = "mastodon", url = "https://social.treehouse.systems/@ayushnix", rel="me" },
-  { name = "github", url = "https://github.com/ayushnix/kangae", rel="me" }
+  { name = "github", url = "https://github.com/stardoom4/kangae", rel="me" }
 ]
 
 # https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
@@ -113,7 +113,7 @@ spdx = "0BSD"
 url = "https://spdx.org/licenses/0BSD.html"
 
 # [recommended] the url of the source code of the microblog itself
-src_url = "https://github.com/ayushnix/kangae"
+src_url = "https://github.com/stardoom4/kangae"
 
 [extra.opengraph]
 # [optional] opengraph image that should be visible when sharing links on social media
@@ -147,7 +147,7 @@ share = true
 # in the example provided below, the URL will be
 # https://github.com/ayushnix/kangae/discussions/new?category=general&title=The+Post+Title
 discuss_github = true
-github_url = "https://github.com/ayushnix/kangae"
+github_url = "https://github.com/stardoom4"
 
 # [optional] other misc urls that should be shown in the post footers
 # both `name` and `url` should be defined for visibility
