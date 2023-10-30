@@ -22,10 +22,10 @@ generate_feed = true
 feed_filename = "atom.xml"
 
 # [recommended] the title of the website
-title = "shikamaru microblog"
+title = "Microblog"
 
 # [recommended] the description of the website
-description = "the personal microblog of shikamaru"
+description = "the personal microblog"
 
 # [recommended] the default language of the website
 default_language = "en"
@@ -65,10 +65,10 @@ smart_punctuation = false
 
 [extra]
 # [recommended] your name
-author = "Nara Shikamaru"
+author = "Garuda"
 
 # [recommended] your internet username
-username = "shikamaru"
+username = "Garuda"
 
 # [optional] your 128x128 avatar, preferably svg
 avatar = "images/shikamaru_avatar.webp"
